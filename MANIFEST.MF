@@ -1,7 +1,7 @@
 Manifest-Version: 1.0
-Created-By: anirbanm
-Implementation-Title: anirbanm
+Created-By: anirbmuk
+Implementation-Title: anirbmuk
 Extension-Name: google.shared.lib
 Specification-Version: 1.0
 Implementation-Version: 1.0
-Implementation-Vendor: anirbanm
+Implementation-Vendor: anirbmuk
